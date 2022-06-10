@@ -1,6 +1,6 @@
-interface firstType{
-  x:number;
-  y:number;
+interface firstType {
+  x: number
+  y: number
 }
 
-export type {firstType}
+export type { firstType }
